@@ -26,7 +26,7 @@ while True:
     for i in heads:
         print(i)
 
-    keywords = ['Trump', 'May', 'war', 'Putin', 'Russia']
+    keywords = ['technology']
 
     if count == 1:
         new = list(heads - set(old))
